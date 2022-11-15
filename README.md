@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GITsumansaurabh
-- 👀 I’m interested in DSA problems & Web Development
+- 👀 I’m interested in DSA & Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on making Websites
 - 📫 Reach me at itzsaurabhsuman@gmail.com
